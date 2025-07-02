@@ -1,0 +1,32 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Version>2.0.0</Version>
+    <Authors>Sandlot Wizards</Authors>
+    <Company>Sandlot Wizards</Company>
+    <RootNamespace>SandlotWizards.SharedKernel</RootNamespace>
+    <PackageId>SandlotWizards.SharedKernel</PackageId>
+    <Description>Shared logging kernel for structured, scoped, and AI-friendly logging with validation and OpenTelemetry support.</Description>
+    <PackageTags>logging;shared-kernel;structured-logging;utility;ai;telemetry;dotnet;sandlot</PackageTags>
+    <RepositoryUrl>https://github.com/SandlotWizards/Sandlot.ActionLogger</RepositoryUrl>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Data.SqlClient" Version="6.0.2" />
+    <PackageReference Include="Microsoft.Extensions.Hosting" Version="8.0.0" />
+    <PackageReference Include="Serilog.AspNetCore" Version="8.0.2" />
+    <PackageReference Include="Serilog.Enrichers.Environment" Version="3.0.1" />
+    <PackageReference Include="Serilog.Sinks.Console" Version="6.0.0" />
+    <PackageReference Include="Serilog.Sinks.Elasticsearch" Version="8.4.1" />
+  </ItemGroup>
+  
+</Project>
