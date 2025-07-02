@@ -1,8 +1,8 @@
 ﻿using Microsoft.Extensions.Configuration;
-using SandlotWizards.ActionLogger.Interfaces.Windows;
+using SandlotWizards.SharedKernel.Interfaces.Windows;
 using System;
 
-namespace SandlotWizards.ActionLogger.Services.Windows
+namespace SandlotWizards.SharedKernel.Services.Windows
 {
     /// <summary>
     /// Provides environment and SolutionCentral connection settings from configuration or environment variables.

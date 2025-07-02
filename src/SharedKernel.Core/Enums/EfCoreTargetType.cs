@@ -1,4 +1,4 @@
-﻿namespace SandlotWizards.ActionLogger.Enums
+﻿namespace SandlotWizards.SharedKernel.Enums
 {
     /// <summary>
     /// Indicates which EF Core migration target to resolve: the application database or MobileFrame database.

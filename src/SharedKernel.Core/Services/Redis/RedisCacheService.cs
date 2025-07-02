@@ -1,11 +1,11 @@
 ﻿using Microsoft.Extensions.Caching.Distributed;
-using SandlotWizards.ActionLogger.Interfaces.Redis;
+using SandlotWizards.SharedKernel.Interfaces.Redis;
 using System;
 using System.Text.Json;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Services.Redis
+namespace SandlotWizards.SharedKernel.Services.Redis
 {
     /// <summary>
     /// Provides Redis caching services using <see cref="IDistributedCache"/> as the backend.

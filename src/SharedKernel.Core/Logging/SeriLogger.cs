@@ -1,10 +1,10 @@
 ﻿using Microsoft.Extensions.Hosting;
-using SandlotWizards.ActionLogger.Constants;
+using SandlotWizards.SharedKernel.Constants;
 using Serilog;
 using Serilog.Sinks.Elasticsearch;
 using System;
 
-namespace SandlotWizards.ActionLogger.Logging
+namespace SandlotWizards.SharedKernel.Logging
 {
     public static class SeriLogger
     {

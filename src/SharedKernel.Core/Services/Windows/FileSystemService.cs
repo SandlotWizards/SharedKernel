@@ -1,6 +1,6 @@
-using SandlotWizards.ActionLogger.Interfaces.Windows;
+using SandlotWizards.SharedKernel.Interfaces.Windows;
 
-namespace SandlotWizards.ActionLogger.Services.Windows
+namespace SandlotWizards.SharedKernel.Services.Windows
 {
     /// <summary>
     /// Unified implementation of all core file system services, including developer, deployment, working, and filestore paths.

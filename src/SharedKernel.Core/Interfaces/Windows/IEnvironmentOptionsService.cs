@@ -1,4 +1,4 @@
-﻿namespace SandlotWizards.ActionLogger.Interfaces.Windows
+﻿namespace SandlotWizards.SharedKernel.Interfaces.Windows
 {
     /// <summary>
     /// Provides access to connection options for both the environment and SolutionCentral.

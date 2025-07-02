@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Interfaces.Sql;
+namespace SandlotWizards.SharedKernel.Interfaces.Sql;
 
 /// <summary>
 /// Executes raw SQL commands using a named connection.

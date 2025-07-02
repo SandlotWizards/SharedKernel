@@ -1,12 +1,12 @@
 ﻿using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.Logging;
-using SandlotWizards.ActionLogger.Interfaces.Sql;
+using SandlotWizards.SharedKernel.Interfaces.Sql;
 using System;
 using System.Collections.Generic;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Services.Sql;
+namespace SandlotWizards.SharedKernel.Services.Sql;
 
 /// <summary>
 /// Executes raw SQL commands and queries against configured connection strings.

@@ -2,7 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Interfaces.Redis
+namespace SandlotWizards.SharedKernel.Interfaces.Redis
 {
     /// <summary>
     /// Defines a service for interacting with Redis as a distributed cache.

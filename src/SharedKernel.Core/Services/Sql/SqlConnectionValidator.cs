@@ -1,9 +1,9 @@
 ﻿using Microsoft.Data.SqlClient;
-using SandlotWizards.ActionLogger.Interfaces.Sql;
+using SandlotWizards.SharedKernel.Interfaces.Sql;
 using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Services.Sql
+namespace SandlotWizards.SharedKernel.Services.Sql
 {
     /// <summary>
     /// Provides methods to validate and execute SQL operations.

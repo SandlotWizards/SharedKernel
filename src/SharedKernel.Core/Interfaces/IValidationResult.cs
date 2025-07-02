@@ -1,4 +1,4 @@
-﻿namespace SandlotWizards.ActionLogger.Interfaces
+﻿namespace SandlotWizards.SharedKernel.Interfaces
 {
     /// <summary>
     /// Represents the outcome of a validation operation.

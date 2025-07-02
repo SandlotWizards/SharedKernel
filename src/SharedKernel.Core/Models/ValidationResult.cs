@@ -1,6 +1,6 @@
-﻿using SandlotWizards.ActionLogger.Interfaces;
+﻿using SandlotWizards.SharedKernel.Interfaces;
 
-namespace SandlotWizards.ActionLogger.Models
+namespace SandlotWizards.SharedKernel.Models
 {
     /// <summary>
     /// Represents the result of a validation operation, indicating success or failure and an optional error message.

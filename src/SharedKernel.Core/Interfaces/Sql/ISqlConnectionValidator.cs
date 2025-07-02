@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Interfaces.Sql
+namespace SandlotWizards.SharedKernel.Interfaces.Sql
 {
     /// <summary>
     /// Defines methods for validating and executing raw SQL connections and statements.

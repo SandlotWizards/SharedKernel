@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SandlotWizards.ActionLogger.Interfaces.Wrapper
+namespace SandlotWizards.SharedKernel.Interfaces.Wrapper
 {
     public interface IDateTime
     {

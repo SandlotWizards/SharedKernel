@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Interfaces.Ai
+namespace SandlotWizards.SharedKernel.Interfaces.Ai
 {
     public interface IAiService
     {

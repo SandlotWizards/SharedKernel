@@ -1,4 +1,4 @@
-namespace SandlotWizards.ActionLogger.Interfaces.Windows
+namespace SandlotWizards.SharedKernel.Interfaces.Windows
 {
     public interface IDeploymentFileSystemService : IUtilitityFileSystemService
     {

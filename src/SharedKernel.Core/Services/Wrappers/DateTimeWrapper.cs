@@ -1,7 +1,7 @@
-﻿using SandlotWizards.ActionLogger.Interfaces.Wrapper;
+﻿using SandlotWizards.SharedKernel.Interfaces.Wrapper;
 using System;
 
-namespace SandlotWizards.ActionLogger.Services.Wrappers
+namespace SandlotWizards.SharedKernel.Services.Wrappers
 {
     /// <summary>
     /// Provides a wrapper around <see cref="DateTime"/> for abstraction and testability.

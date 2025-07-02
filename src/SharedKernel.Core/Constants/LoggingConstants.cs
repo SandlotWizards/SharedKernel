@@ -1,4 +1,4 @@
-﻿namespace SandlotWizards.ActionLogger.Constants
+﻿namespace SandlotWizards.SharedKernel.Constants
 {
     public static class LoggingConstants
     {

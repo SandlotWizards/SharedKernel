@@ -1,6 +1,6 @@
 ﻿using System.Reflection;
 
-namespace SandlotWizards.ActionLogger.Helpers
+namespace SandlotWizards.SharedKernel.Helpers
 {
     public static class PropertyFormatter
     {

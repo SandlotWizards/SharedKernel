@@ -1,7 +1,7 @@
 ﻿using System.Threading;
 using System.Threading.Tasks;
 
-namespace SandlotWizards.ActionLogger.Interfaces.Command
+namespace SandlotWizards.SharedKernel.Interfaces.Command
 {
     /// <summary>
     /// Defines a handler for a command of type <typeparamref name="TCommand"/>.

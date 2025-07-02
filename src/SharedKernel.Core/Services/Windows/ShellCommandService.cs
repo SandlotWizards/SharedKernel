@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using System.IO;
-using SandlotWizards.ActionLogger.Interfaces.Windows;
+using SandlotWizards.SharedKernel.Interfaces.Windows;
 
-namespace SandlotWizards.ActionLogger.Services.Windows
+namespace SandlotWizards.SharedKernel.Services.Windows
 {
     /// <summary>
     /// Default implementation of <see cref="IShellCommandService"/> for executing shell commands.

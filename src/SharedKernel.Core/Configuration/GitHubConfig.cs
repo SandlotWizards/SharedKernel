@@ -1,4 +1,4 @@
-﻿namespace SandlotWizards.ActionLogger.Configuration
+﻿namespace SandlotWizards.SharedKernel.Configuration
 {
     /// <summary>
     /// Represents GitHub configuration settings for accessing repositories.

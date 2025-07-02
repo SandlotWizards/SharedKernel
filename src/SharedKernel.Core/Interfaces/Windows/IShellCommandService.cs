@@ -1,4 +1,4 @@
-namespace SandlotWizards.ActionLogger.Interfaces.Windows
+namespace SandlotWizards.SharedKernel.Interfaces.Windows
 {
     /// <summary>
     /// Provides functionality to execute shell commands and capture results.
